@@ -1,0 +1,1 @@
+java -jar swrm-all-1.5.7.jar mainnet.conf
